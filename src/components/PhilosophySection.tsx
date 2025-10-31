@@ -150,8 +150,6 @@ const PhilosophySection = () => {
             <div className="flex items-center justify-center">
               <div className="text-[#a1a1aa] text-lg">
                 <span className="font-semibold text-[#22c55e]">— F.A. Hayek</span>
-                <span className="mx-2">•</span>
-                <span className="font-mono text-sm">Applied to system architecture</span>
               </div>
             </div>
           </div>

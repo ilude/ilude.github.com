@@ -7,7 +7,6 @@ import ProjectsSection from './components/ProjectsSection';
 import LoreSection from './components/LoreSection';
 import ConstitutionalSection from './components/ConstitutionalSection';
 import LinksSection from './components/LinksSection';
-import ChaosMeter from './components/ChaosMeter';
 import UptimeCounter from './components/UptimeCounter';
 import './App.css';
 
@@ -16,9 +15,8 @@ function App() {
     <div className="min-h-screen bg-[#0a0a0a] text-white">
       <Navigation />
       
-      {/* Interactive widgets */}
-      <ChaosMeter />
-      <UptimeCounter />
+  {/* Interactive widgets */}
+  <UptimeCounter />
       
       <main>
         <section id="hero">

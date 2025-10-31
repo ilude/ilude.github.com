@@ -67,24 +67,19 @@ const AboutSection = () => {
             </div>
             
             <div className="space-y-4 text-slate-300">
-              <p className="font-mono text-sm text-cyan-400">
-                {typewriterText}
-                <span className="animate-pulse">|</span>
-              </p>
-              
               <p>
                 At the tender age of 20, I orchestrated something that would make modern internet 
                 infrastructure weep with envy: a dial-up ISP operation that ran from my parents' basement.
               </p>
               
               <p>
-                With 66 phone lines and 56K modems humming in harmony, I became the town's first 
-                internet service provider. I had to coordinate with local phone company engineers 
-                for the head-up – a task that taught me more about infrastructure than any textbook ever could.
+                Sporting a T1 line, 66 phone lines and external 56K modems humming in harmony, on June 10th 1995, I became Butler PA's first 
+                internet service provider. A task that taught me more about infrastructure than any textbook ever could.
               </p>
               
               <p className="text-slate-400 italic">
-                Eventually sold out around 1998. Some say the basement still echoes with dial-up tones...
+                Eventually sold out around 1998. Some say the basement still echoes with dial-up tones and the 
+                screeching sounds of Windows 95 connecting...
               </p>
             </div>
           </motion.div>
@@ -104,7 +99,7 @@ const AboutSection = () => {
               </h4>
               <p className="text-slate-300 text-sm">
                 Keeping production systems alive, debugging midnight incidents, and ensuring 
-                that when things break at 3 AM, they're my calls to make – not receive.
+                that when things break at 3 AM, they're my calls to make - not receive.
               </p>
             </div>
 
@@ -115,8 +110,8 @@ const AboutSection = () => {
                 Creative Process
               </h4>
               <p className="text-slate-300 text-sm">
-                If it hums, blinks, or throws an error at 3 a.m., I've probably written a ballad about it. 
-                Between Terraform and folk rock, muttering about OpenStack logs.
+                If it hums, blinks, or throws an error in the wee hours of the morning, I've probably written an AI generated ballad about it. 
+                Between Terraform and folk rock, muttering about Proxmox logs.
               </p>
             </div>
 
@@ -142,9 +137,9 @@ const AboutSection = () => {
           className="text-center mt-16"
         >
           <blockquote className="text-2xl md:text-3xl text-slate-300 font-light italic max-w-4xl mx-auto">
-            "Garage-grade datacenters achieve three nines of enlightenment"
+            "Any normal person would have stopped at this point, but I'm not a normal person, I'm a geek beyond all reason!"
           </blockquote>
-          <p className="text-slate-500 mt-4 font-mono text-sm">— Homelab Mythology</p>
+          <p className="text-slate-500 mt-4 font-mono text-sm">— Me</p>
         </motion.div>
       </div>
     </section>

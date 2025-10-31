@@ -82,10 +82,10 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.4 }}
         >
           <h2 className="text-xl md:text-2xl text-slate-300 mb-4 font-light">
-            Synthetic Nonsense Orchestrator
+            Director Synthetic Nonsense Orchestration
           </h2>
           <p className="text-sm text-slate-400 mb-2 font-mono">
-            (formerly Chief Hallucination Wrangler)
+            (formerly Generative Shenanigans Manager)
           </p>
         </motion.div>
 
@@ -96,53 +96,33 @@ const HeroSection = () => {
           className="mt-8"
         >
           <p className="text-lg md:text-xl text-slate-200 leading-relaxed max-w-3xl mx-auto mb-8">
-            Part-time Synthetic Nonsense Orchestrator, full-time tinkerer of datacenters, lore, and chaos. 
-            I feed vibes into industrial word-salad centrifuges and jar the best chunks for memes, songs, and one-hit wonders.
+            Part-time VP of SlopOps, full-time tinkerer of homelabs, lore, and chaos. 
+            I feed vibes into industrial word-salad centrifuges and jar the best chunks for memes, and one-hit wonders.
           </p>
         </motion.div>
 
-        {/* Interactive Chaos Meter */}
-        <motion.div
-          initial={{ opacity: 0, scale: 0.8 }}
-          animate={{ opacity: isLoaded ? 1 : 0, scale: isLoaded ? 1 : 0.8 }}
-          transition={{ duration: 1, delay: 0.8 }}
-          className="mt-12"
-        >
-          <div className="bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-lg p-6 max-w-md mx-auto">
-            <h3 className="text-slate-300 text-sm font-mono mb-2">CHAOS METER</h3>
-            <div className="flex items-center space-x-4">
-              <span className="text-green-400 font-mono text-sm">STABLE</span>
-              <div className="flex-1 bg-slate-700 rounded-full h-2 overflow-hidden">
-                <motion.div
-                  className="h-full bg-gradient-to-r from-green-400 via-yellow-400 to-red-400"
-                  initial={{ width: "0%" }}
-                  animate={{ width: "23%" }}
-                  transition={{ duration: 2, delay: 1 }}
-                />
-              </div>
-              <span className="text-red-400 font-mono text-sm">CHAOS</span>
-            </div>
-          </div>
-        </motion.div>
+        {/* (Chaos meter removed from hero center) */}
 
-        {/* Scroll Indicator */}
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: isLoaded ? 1 : 0 }}
-          transition={{ duration: 1, delay: 1.2 }}
-          className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
-        >
-          <motion.div
-            animate={{ y: [0, 10, 0] }}
-            transition={{ duration: 2, repeat: Infinity }}
-            className="text-slate-400"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-            </svg>
-          </motion.div>
-        </motion.div>
+        {/* Scroll indicator moved outside content to avoid overlap */}
       </div>
+
+      {/* Scroll Indicator (positioned at section level to avoid overlapping hero text) */}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: isLoaded ? 1 : 0 }}
+        transition={{ duration: 1, delay: 1.2 }}
+        className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20 pointer-events-none"
+      >
+        <motion.div
+          animate={{ y: [0, 10, 0] }}
+          transition={{ duration: 2, repeat: Infinity }}
+          className="text-slate-400"
+        >
+          <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+          </svg>
+        </motion.div>
+      </motion.div>
     </section>
   );
 };
