@@ -1,0 +1,342 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "color": {
+    "background": {
+      "pure-black": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "OLED optimized, hero sections, deep backgrounds"
+      },
+      "near-black": {
+        "$type": "color",
+        "$value": "#0a0a0a",
+        "$description": "Main page background"
+      },
+      "elevated": {
+        "$type": "color",
+        "$value": "#141414",
+        "$description": "Cards, elevated surfaces, level 1"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#1e1e1e",
+        "$description": "Interactive hover states, level 2"
+      },
+      "tooltip": {
+        "$type": "color",
+        "$value": "#282828",
+        "$description": "Tooltips, highest elevation, level 3"
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#e4e4e7",
+        "$description": "Headlines, body text, contrast 15.2:1"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#a1a1aa",
+        "$description": "Supporting text, captions, contrast 8.9:1"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "#71717a",
+        "$description": "Metadata, subtle labels, contrast 4.6:1"
+      }
+    },
+    "accent": {
+      "primary": {
+        "$type": "color",
+        "$value": "#3b82f6",
+        "$description": "Cyber blue, CTAs, links, contrast 8.6:1"
+      },
+      "primary-hover": {
+        "$type": "color",
+        "$value": "#60a5fa",
+        "$description": "Primary accent hover state"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#22c55e",
+        "$description": "Matrix green, terminal widgets, success"
+      },
+      "glow": {
+        "$type": "color",
+        "$value": "rgba(59, 130, 246, 0.5)",
+        "$description": "Glow effect color for interactive elements"
+      }
+    },
+    "semantic": {
+      "success": {
+        "$type": "color",
+        "$value": "#22c55e"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#f59e0b"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "#ef4444"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "#3b82f6"
+      }
+    },
+    "border": {
+      "subtle": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1)"
+      },
+      "moderate": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.15)"
+      },
+      "accent": {
+        "$type": "color",
+        "$value": "#3b82f6"
+      }
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "display": {
+        "$type": "fontFamily",
+        "$value": "'Inter', -apple-system, BlinkMacSystemFont, sans-serif"
+      },
+      "body": {
+        "$type": "fontFamily",
+        "$value": "'Inter', -apple-system, sans-serif"
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": "'JetBrains Mono', 'Fira Code', 'Courier New', monospace"
+      }
+    },
+    "fontSize": {
+      "hero": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "h1": {
+        "$type": "dimension",
+        "$value": "36px"
+      },
+      "h2": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "h3": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "body-lg": {
+        "$type": "dimension",
+        "$value": "18px"
+      },
+      "body": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": "14px"
+      },
+      "mono": {
+        "$type": "dimension",
+        "$value": "14px"
+      }
+    },
+    "fontWeight": {
+      "regular": {
+        "$type": "number",
+        "$value": 400
+      },
+      "semibold": {
+        "$type": "number",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "number",
+        "$value": 700
+      }
+    },
+    "lineHeight": {
+      "tight": {
+        "$type": "number",
+        "$value": 1.1
+      },
+      "snug": {
+        "$type": "number",
+        "$value": 1.2
+      },
+      "normal": {
+        "$type": "number",
+        "$value": 1.3
+      },
+      "relaxed": {
+        "$type": "number",
+        "$value": 1.5
+      },
+      "loose": {
+        "$type": "number",
+        "$value": 1.6
+      }
+    },
+    "letterSpacing": {
+      "tight": {
+        "$type": "dimension",
+        "$value": "-0.02em"
+      },
+      "normal": {
+        "$type": "dimension",
+        "$value": "0"
+      },
+      "wide": {
+        "$type": "dimension",
+        "$value": "0.01em"
+      }
+    }
+  },
+  "spacing": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "32px"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "48px"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "64px"
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": "96px"
+    },
+    "4xl": {
+      "$type": "dimension",
+      "$value": "128px"
+    }
+  },
+  "borderRadius": {
+    "sm": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": "9999px"
+    }
+  },
+  "boxShadow": {
+    "glow-primary": {
+      "$type": "shadow",
+      "$value": {
+        "offsetX": "0",
+        "offsetY": "0",
+        "blur": "20px",
+        "spread": "0",
+        "color": "rgba(59, 130, 246, 0.5)"
+      },
+      "$description": "Primary button/card hover glow"
+    },
+    "glow-secondary": {
+      "$type": "shadow",
+      "$value": {
+        "offsetX": "0",
+        "offsetY": "0",
+        "blur": "16px",
+        "spread": "0",
+        "color": "rgba(34, 197, 94, 0.5)"
+      },
+      "$description": "Terminal widgets, success states"
+    },
+    "glow-subtle": {
+      "$type": "shadow",
+      "$value": {
+        "offsetX": "0",
+        "offsetY": "0",
+        "blur": "12px",
+        "spread": "0",
+        "color": "rgba(59, 130, 246, 0.3)"
+      },
+      "$description": "Icon hover effects"
+    },
+    "elevated": {
+      "$type": "shadow",
+      "$value": {
+        "offsetX": "0",
+        "offsetY": "4px",
+        "blur": "12px",
+        "spread": "0",
+        "color": "rgba(0, 0, 0, 0.5)"
+      },
+      "$description": "Card elevation"
+    }
+  },
+  "animation": {
+    "duration": {
+      "fast": {
+        "$type": "duration",
+        "$value": "150ms",
+        "$description": "Button hover, icon changes"
+      },
+      "base": {
+        "$type": "duration",
+        "$value": "250ms",
+        "$description": "Card elevation, link hover"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms",
+        "$description": "Modal open, section transitions"
+      },
+      "pulse": {
+        "$type": "duration",
+        "$value": "2000ms",
+        "$description": "Glow pulse animation"
+      }
+    },
+    "easing": {
+      "default": {
+        "$type": "cubicBezier",
+        "$value": [0, 0, 0.2, 1],
+        "$description": "ease-out"
+      },
+      "sharp": {
+        "$type": "cubicBezier",
+        "$value": [0.4, 0, 0.2, 1],
+        "$description": "Sharp easing for exits"
+      },
+      "smooth": {
+        "$type": "cubicBezier",
+        "$value": [0.42, 0, 0.58, 1],
+        "$description": "ease-in-out for continuous animations"
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "query": "Abstract network visualization with connected nodes for decorative elements",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/069/815/381/non_2x/abstract-network-connection-glowing-nodes-dark-background-digital-technology-free-photo.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 97304,
+      "width": 1749,
+      "height": 980,
+      "total_pixels": 1714020,
+      "basic_score": 0.8211266727770026,
+      "file_name": "abstract_digital_network_glowing_nodes_dark_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is perfectly relevant to both the search query and the prompt, depicting an abstract network of glowing nodes and connections on a dark background. The clarity is excellent, with sharp in-focus elements and well-executed bokeh for depth. There are no watermarks, and the overall composition and aesthetic quality are highly professional.",
+      "file_name": "abstract_digital_network_glowing_nodes_dark_background.jpg",
+      "caption": "An abstract visualization of a digital network featuring glowing blue lines connecting luminous orange and blue spheres against a dark, blurred background. The image utilizes a shallow depth of field, with some interconnected nodes in sharp focus while others dissolve into a soft bokeh, creating a dynamic and futuristic aesthetic often associated with technology, artificial intelligence, data analytics, or cybersecurity concepts.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dark terminal screen with code/command line for interactive elements",
+    "image_info": {
+      "url": "https://learn.microsoft.com/en-us/windows/terminal/images/experimental-retro-terminal-effect.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 54603,
+      "width": 1653,
+      "height": 909,
+      "total_pixels": 1502577,
+      "basic_score": 0.8305715030072506,
+      "file_name": "dark_windows_terminal_command_line_interactive.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, perfectly showcasing a dark terminal screen with command line text and an interactive cursor. The clarity is excellent, with sharp and legible text. There are no watermarks. The overall composition is clean, although the very top of the window title is slightly cut off, which is a minor imperfection.",
+      "file_name": "dark_windows_terminal_command_line_interactive.jpg",
+      "caption": "A screenshot of a dark-themed Windows Command Prompt window displaying the Microsoft Windows version information (10.0.19570.1000) and a user prompt (C:\\Users\\cinnamon>) with a blinking white cursor, indicating readiness for interactive command input.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dark terminal screen with code/command line for interactive elements",
+    "image_info": {
+      "url": "https://www.shutterstock.com/shutterstock/videos/3855970471/thumb/1.jpg?ip=x480",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 13643,
+      "width": 480,
+      "height": 270,
+      "total_pixels": 129600,
+      "basic_score": 0.714634545374361,
+      "file_name": "dark_terminal_screen_code_react_native.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 75.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting a dark terminal screen with programming code/command line output. The dark aesthetic is well-executed. Clarity is good in the in-focus areas, but there is a noticeable shallow depth of field or blur that reduces the sharpness of some text elements. No watermarks are present, contributing to a professional appearance.",
+      "file_name": "dark_terminal_screen_code_react_native.jpg",
+      "caption": "A close-up view of a dark computer screen displaying programming code or command-line interface output. White text, including references to 'react-native', 'codegen', and 'storage', stands out against the black background, with a shallow depth of field emphasizing specific lines of code. This image captures a technical, development-focused aesthetic.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dark terminal screen with code/command line for interactive elements",
+    "image_info": {
+      "url": "https://opensource.com/sites/default/files/uploads/urxvt-color.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 33102,
+      "width": 675,
+      "height": 437,
+      "total_pixels": 294975,
+      "basic_score": 0.7931601337400003,
+      "file_name": "dark_terminal_screen_command_line_ls_output.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It clearly depicts a dark-themed terminal screen with command line output (`ls command`). The text is crisp and highly legible, and there are no watermarks. The composition is clean and professional.",
+      "file_name": "dark_terminal_screen_command_line_ls_output.jpg",
+      "caption": "A detailed screenshot of a dark-themed URXVT terminal window displaying the output of the 'ls' command, which lists numerous files and directories in a two-column format. The text is color-coded to distinguish different file types, with directories appearing in blue, executable scripts in green, and archives/JAR files in red. A command prompt showing '[NEW] | 1 | 2 | ls' is visible at the top, indicating an active session.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Close-up of a circuit board with glowing elements for tech background texture",
+    "image_info": {
+      "url": "https://images.stockcake.com/public/1/7/7/177cad34-4b25-4fbb-8f15-38c24917e661_large/circuit-board-close-up-stockcake.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 50914,
+      "width": 512,
+      "height": 512,
+      "total_pixels": 262144,
+      "basic_score": 0.7759980820433644,
+      "file_name": "circuit_board_technology_closeup_glowing_dark_aesthetic.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features a high-quality close-up of a circuit board with intricate details and a pleasing depth of field. The 'glowing elements' are beautifully captured through the bokeh effect on the golden traces and components, enhancing the 'dark aesthetic' and making it ideal for a 'tech background texture'. There are no watermarks.",
+      "file_name": "circuit_board_technology_closeup_glowing_dark_aesthetic.jpg",
+      "caption": "A detailed, close-up shot of a green circuit board, showcasing various electronic components such as integrated circuits (ICs), capacitors, and resistors. The image features a shallow depth of field, with sharp focus on the central microchip and other elements fading into a soft bokeh blur, highlighting the golden contact points and traces with a luminous effect. The composition creates a dark, sophisticated technology aesthetic, perfect for a high-tech background or texture.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Close-up of a circuit board with glowing elements for tech background texture",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/cybernetic-aesthetic-neon-circuit-board-patterns-glowing-dark-space-generated-ai-370008765.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 75562,
+      "width": 800,
+      "height": 533,
+      "total_pixels": 426400,
+      "basic_score": 0.8329435000628286,
+      "file_name": "glowing_circuit_board_close_up_dark_tech_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 40.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches both the search query and the prompt, displaying a close-up of a circuit board with vibrant glowing elements and a dark, high-tech aesthetic. The clarity and composition are outstanding, creating a visually striking image. However, a noticeable watermark in the bottom left corner significantly reduces its score for professional use without licensing.",
+      "file_name": "glowing_circuit_board_close_up_dark_tech_background.jpg",
+      "caption": "A stunning close-up photograph of a dark electronic circuit board, intricate with glowing pink and blue illuminated traces and components. The central processor unit (CPU) is highlighted with a vivid pink glow, surrounded by a complex network of circuit pathways. The futuristic, high-tech aesthetic and sharp detail make it an ideal texture or background for technology-related themes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark industrial server room with glowing server racks and lights for hero background",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/626118682/photo/server-room-interior-in-datacenter.jpg?s=612x612&w=0&k=20&c=yizhs0AIJMiTPGrsTXEt_txFXCnXYIds77A79KZSgu0=",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 86850,
+      "width": 612,
+      "height": 428,
+      "total_pixels": 261936,
+      "basic_score": 0.7784479929980382,
+      "file_name": "dark_industrial_server_room_datacenter_glowing_racks_tech_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and the prompt. It depicts a dark industrial server room/datacenter with prominently glowing server racks and lights, making it an ideal hero background. The clarity is excellent, and there are no watermarks. The composition is strong, creating an immersive tech aesthetic.",
+      "file_name": "dark_industrial_server_room_datacenter_glowing_racks_tech_background.jpg",
+      "caption": "A long, futuristic corridor within a datacenter, featuring rows of tall server racks on both sides. The room is bathed in an atmospheric purple and blue light, emanating from both the ceiling fixtures and the multitude of glowing indicator lights (green, yellow, red, blue) on the individual server units. A white door is visible at the far end, with a green exit sign above it. The floor has a reflective checkered pattern, adding to the high-tech, industrial aesthetic, perfect for a technology-themed background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark industrial server room with glowing server racks and lights for hero background",
+    "image_info": {
+      "url": "https://imgproxy.divecdn.com/jDAS4Unl8scJIeH5KsBbVg2rl6YP-sPrS7E_Qk3vRTE/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA4MDE5OTkxLmpwZw==.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 93294,
+      "width": 1200,
+      "height": 675,
+      "total_pixels": 810000,
+      "basic_score": 0.9286427134359863,
+      "file_name": "dark_server_room_datacenter_glowing_racks_industrial_tech_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt, perfectly depicting a dark industrial server room with glowing server racks and lights. Its high clarity, professional composition, and absence of watermarks make it ideal for a hero background.",
+      "file_name": "dark_server_room_datacenter_glowing_racks_industrial_tech_background.jpg",
+      "caption": "A wide-angle perspective shot looking down a long, well-lit aisle of a modern data center, featuring rows of black server racks with glowing blue and green indicator lights. The reflective floor and ceiling panels contribute to a high-tech, industrial aesthetic, making it an ideal hero background for technology-related themes.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]

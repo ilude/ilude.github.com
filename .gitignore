@@ -1,1 +1,21 @@
 .specstory/
+node_modules
+
+# Build output
+/dist/
+
+# Dependencies
+node_modules/
+node_modules/.vite-temp/
+/.pnpm-store/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
